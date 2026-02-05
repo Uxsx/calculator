@@ -1,4 +1,4 @@
-package source;
+package Source;
 
 public class Display {
    public Display() {
