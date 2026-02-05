@@ -1,4 +1,4 @@
-package Source;
+package source;
 
 public class Calculator {
     private double currentResult;
