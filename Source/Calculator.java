@@ -27,7 +27,7 @@ public class Calculator {
                 }
                 break;
             default:
-                System.out.println("Error: Invalid operation!");
+                System.out.println("Error: Invalid operation! pls try again.");
         }
     }
 
