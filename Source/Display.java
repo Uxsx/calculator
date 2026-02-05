@@ -9,5 +9,6 @@ public class Display {
       System.out.println("| 0, %, =, + |");
       System.out.println("______________");
       System.out.println("");
+      System.out.println("test display");
    }
 }
