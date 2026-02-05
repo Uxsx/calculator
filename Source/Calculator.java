@@ -1,5 +1,3 @@
-package Source;
-
 public class Calculator {
     private double currentResult;
 
